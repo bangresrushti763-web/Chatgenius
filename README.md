@@ -1,2 +1,2 @@
 # ChatGenius
-A MERN based ChatGPT replica implemented from scratch using Google Gemini API.
+A MERN based web application implemented from scratch using Google Gemini API.
